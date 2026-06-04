@@ -3,6 +3,7 @@
 Repository publik untuk manajemen dokumen teknik, perawatan elektrikal, dan optimasi efisiensi motor industri kapasitas besar.
 
 ## Daftar Layanan & Dokumentasi Proyek:
+* [Jasa Service Overhaul Rotor Shredder](https://www.pt-mae.com/2026/06/jasa-service-overhaul-rotor-shredder.html)
 * [Website Utama PT MAE](https://www.pt-mae.com/)
 * [Halaman Layanan Service & Rewinding](https://www.pt-mae.com/p/rewinding.html)
 * [Jasa Dynamic Balancing](https://www.pt-mae.com/p/jasa-dynamic-balancing.html)
